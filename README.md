@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Sandeep Sutradhar 👋
 
-<!--
-**sandeepss2020/sandeepss2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer (2023 - Present)**
 
-Here are some ideas to get you started:
+A passionate tech enthusiast with a Master’s in Computer Applications, I specialize in software development with a keen interest in Research & Development in Machine Learning and Artificial Intelligence. My experience includes deploying an NPM library using D3.js for advanced data visualization, and I am currently developing an AI-powered bot for audio and video analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- JavaScript, D3.js, Vue.js  
+- Python, Machine Learning  
+- MongoDB, Flask  
+- Docker
+
+## 📫 Contact
+- **Email:** sandeepss.christ@gmail.com  
+- **LinkedIn:** [Sandeep Sutradhar](https://www.linkedin.com/in/sandeep-sutradhar-86a076189)
+
+---
+Feel free to connect!
